@@ -35,3 +35,11 @@ Replace `<target_url_include_vulnerable_path>` with the URL of the vulnerable we
 ```
 python3 LFIprobe.py -u http://example.com/download.php?file=
 ```
+
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer 
+
+This tool is intended for educational and testing purposes only. Use it responsibly and only on systems that you have explicit permission to test.
